@@ -1,0 +1,8 @@
+.button_type_animated {
+  transition: transform .3s linear.1s;
+}
+
+.button_type_animated:hover {
+  transform: scale(.95, .95);
+  cursor: pointer;
+}

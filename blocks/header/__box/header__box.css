@@ -1,0 +1,7 @@
+.header__box {
+  box-sizing: border-box;
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-basis: 50%;
+}

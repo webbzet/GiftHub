@@ -1,0 +1,12 @@
+.nav__link {
+  margin-left: 31px;
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  line-height: 21.6px;
+  transition: opacity .3s linear .1s;
+}
+
+.nav__link:hover {
+  opacity: .4;
+}

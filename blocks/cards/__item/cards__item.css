@@ -1,0 +1,16 @@
+.cards__item {
+  flex-basis: 270px;
+  min-height: 436px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0 30px;
+  display: flex;
+  flex-direction: column;
+  background-color: #FAFAFA;
+}
+
+.cards__item:first-child {
+  margin: 0;
+  background-color: #FFF;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+}

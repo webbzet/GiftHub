@@ -1,0 +1,7 @@
+.footer__images {
+  margin: 0 auto 72px auto;
+  width: 296px;
+  min-height: 40px;
+  display: flex;
+  justify-content: space-between;
+}

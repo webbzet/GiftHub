@@ -1,0 +1,7 @@
+.footer__image-link {
+  transition: transform .4s ease-in .1s;
+}
+
+.footer__image-link:hover {
+  transform: translate(0px, -5px);
+}

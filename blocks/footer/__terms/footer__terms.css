@@ -1,0 +1,10 @@
+.footer__terms {
+  width: 101px;
+  height: 20px;
+  margin: 0 0 0 14px;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  display: inline;
+}

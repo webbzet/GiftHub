@@ -1,0 +1,10 @@
+.footer__years {
+  width: 94px;
+  height: 20px;
+  margin: 0;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  display: inline;
+}

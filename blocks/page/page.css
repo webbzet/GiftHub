@@ -1,0 +1,7 @@
+.page {
+  max-width: 1440px;
+  min-width: 1200px;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  background-color: #ffe4b5;
+  font-weight: normal;
+}

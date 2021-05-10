@@ -1,0 +1,25 @@
+.blogs__card:first-child {
+  flex-basis: 100%;
+  height: 370px;
+  background-color: #231F20;
+  margin: 0 0 40px 0;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.blogs__card:nth-child(2) {
+  min-width: 570px;
+  box-sizing: border-box;
+  background-color: #fff;
+  min-height: 290px;
+  margin: 0;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+}
+
+.blogs__card:nth-child(3) {
+  min-width: 570px;
+  box-sizing: border-box;
+  background-color: #fff;
+  min-height: 290px;
+  margin: 0 0 0 30px;
+}

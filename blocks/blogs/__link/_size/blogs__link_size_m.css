@@ -1,0 +1,15 @@
+.blogs__link_size_m {
+  margin: 60px 0 49px 78px;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity .3s linear .1s;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: left;
+  font-weight: normal;
+}
+
+.blogs__link_size_m:hover {
+  opacity: .4;
+}

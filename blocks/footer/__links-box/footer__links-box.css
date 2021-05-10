@@ -1,0 +1,13 @@
+.footer__links-box:first-child {
+  min-width: 159px;
+  min-height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__links-box:last-child {
+  min-width: 132px;
+  min-height: 20px;
+  display: flex;
+  justify-content: space-between;
+}

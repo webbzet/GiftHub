@@ -1,0 +1,14 @@
+.footer__link {
+  text-decoration: none;
+  color: #000;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  font-weight: 600;
+  transition: opacity .3s linear .1s;
+}
+
+.footer__link:hover {
+  opacity: .4;
+}

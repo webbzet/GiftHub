@@ -1,0 +1,10 @@
+.nav__button {
+  margin: auto 34px auto;
+  border: 1px solid #F7941E;
+  border-radius: 5px;
+  background-color: #FAFAFA;
+  width: 150px;
+  min-height: 36px;
+  text-align: center;
+  color: #F7941E;
+}

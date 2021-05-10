@@ -1,0 +1,11 @@
+.cards__title {
+  margin: 24px auto 0px;
+  align-items: center;
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+  font-weight: normal;
+  width: 222px;
+  min-height: 24px;
+}
